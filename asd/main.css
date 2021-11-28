@@ -103,13 +103,14 @@ header {
 	justify-content: space-between;
 }
 
-.social-web
-display: flex;
-justify-content: space-around;
-width: 100px;
-align-items: center:
+.social-web {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	width: 100px;
+}
 
-social-web > a > img {
+.social-web > a > img {
 	width: 18px;
 }
 
@@ -177,9 +178,9 @@ social-web > a > img {
 	align-items: center;
 }
 
-
-.child-program > img
-width: 35px;
+.child-program > img {
+	width: 35px;
+}
 
 .descr-program > h3 {
 	font-size: 12px;
@@ -192,6 +193,7 @@ width: 35px;
 .program-version {
 	font-size: 9px;
 }
+
 
 
 
