@@ -36,8 +36,13 @@ button {
 	justify-content: space-between;
 }
 
+.menu-list > li > a {
+	font-size: 13px;
+	font-weight: 300;
+}
+
 header > input {
-	width: 79%;
+	width: 65%;
 	height: 16px;
 	background-color: #2b2b2b;
 	color: #fff;
@@ -55,6 +60,7 @@ header > button {
 	font-size: 13px;
 	border:  none;
 	border-radius: 8px;
+	cursor: pointer;
 }
 
 .logo-link,
@@ -193,9 +199,6 @@ header {
 .program-version {
 	font-size: 9px;
 }
-
-
-
 
 
 
