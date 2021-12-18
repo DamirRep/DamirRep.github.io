@@ -10,7 +10,7 @@ body {
 
 }
 
-p,h1,h2,h3, a {
+p,h1,h2,h3, a, li {
 	color: #fff;
 }
 
@@ -199,10 +199,3 @@ header {
 .program-version {
 	font-size: 9px;
 }
-
-
-
-
-
-
-

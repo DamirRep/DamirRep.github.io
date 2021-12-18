@@ -2,16 +2,17 @@
 	font-weight: 700 !important;
 }
 
+
 .one-icon-util {
-	opacity: 0.8 !important ;
+	opacity: 0.8 !important;
 }
 
 .utilites-wrap {
 	margin-top: 60px;
 	display: grid;
-	grid-template-columns: repeat(3, 1fr);
+	grid-template-columns: repeat(3,1fr);
 	grid-auto-rows: minmax(180px, auto);
-	grid-gap: 30px;
+	grid-gap: 30px;	
 }
 
 .first-utility,
