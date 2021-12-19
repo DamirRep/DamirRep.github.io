@@ -31,4 +31,10 @@
 
 .description-news > p {
 	color: #000;
+	font-size: 15px;
+}
+
+.description-news > li {
+	color: #000;
+	font-size: 13px;
 }
